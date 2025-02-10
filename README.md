@@ -7,8 +7,8 @@
 
 ## 🚀 About Me  
 🎓 **Master's in Data Science & Statistics** (Graphic Era Hill University)  
-📊 **Data Science Intern** at **Saiket Systems** | Former **Power BI Intern** at SMNG Academy  
-🤖 **Machine Learning Researcher** – Working on **Lung Cancer Detection using ML**  
+📊 **Data Science Intern** at **Saiket Systems** (jan 2025-present)|former ** Data Science Intern** at **Insignia Consultancy Solutions** (may 2024-nov 2024)| Former **Power BI Intern** at **SMNG Academy** (jan 2024-feb 2024)
+🤖 **Machine Learning Researcher** – Working on **Lung Cancer Detection using ML** for my college project  
 🌱 **Open Source Contributor** – GirlScript Summer of Code (GSSoC) 2024  
 
 ---
@@ -20,12 +20,7 @@
 
 ---
 
-## 📌 Featured Projects  
-🚀 **[Lung Cancer Detection with ML](https://github.com/yourusername/lung-cancer-ml)**  
-🔗 **[Power BI Dashboards](https://github.com/yourusername/powerbi-dashboards)** (Call Center, Nestlé, PwC)  
-📊 **[Customer Churn Prediction](https://github.com/yourusername/customer-churn)**  
 
----
 
 ## 📈 GitHub Stats  
 <p align="center">

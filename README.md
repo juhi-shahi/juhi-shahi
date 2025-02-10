@@ -1,3 +1,4 @@
+
 - 👋 Hi, I’m JUHI SHAHI
 - 👀 I’m interested in exploring the path related to my field as a data scientist/analyst
 - 🌱 I’m currently pursing my master degree as msc data science and statistics from graphic era hill university

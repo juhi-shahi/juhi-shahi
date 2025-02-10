@@ -22,16 +22,7 @@
 
 
 
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juhi_shahi&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juhi_shahi&theme=dark" alt="GitHub Streak" />
-</p>
-
----
 
 ## 🏆 Achievements  
 🎖 **Postman Batch 5 Winner** – Won **limited edition swags** 🏅  

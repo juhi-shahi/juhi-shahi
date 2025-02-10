@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Juhi! 👋</h1>
+<h1 align="center">Hi there, I'm Juhi Shahi! 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&width=435&lines=Data+Science+Enthusiast;Machine+Learning+Researcher;Power+BI+Developer;Open-Source+Contributor" alt="Typing Animation">
 </p>
@@ -6,12 +6,14 @@
 ---
 
 ## 🚀 About Me  
-🎓 Data Science & Machine Learning Enthusiast  
-📊 Power BI Developer | SQL Analyst  
-🤖 Researching **Lung Cancer Detection using ML**  
-🌱 Currently contributing to **Open Source**  
+🎓 **Master's in Data Science & Statistics** (Graphic Era Hill University)  
+📊 **Data Science Intern** at **Saiket Systems** | Former **Power BI Intern** at SMNG Academy  
+🤖 **Machine Learning Researcher** – Working on **Lung Cancer Detection using ML**  
+🌱 **Open Source Contributor** – GirlScript Summer of Code (GSSoC) 2024  
 
-### **💡 Technologies & Tools**
+---
+
+## 💡 Technologies & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sql,postgres,github,git,powerbi" />
 </p>
@@ -19,9 +21,9 @@
 ---
 
 ## 📌 Featured Projects  
-🚀 **Lung Cancer Detection with ML**  
-🔗 **[Power BI Dashboards](https://github.com/yourusername)** (Call Center, Nestlé, PwC)  
-📊 **Data Analysis Case Studies**  
+🚀 **[Lung Cancer Detection with ML](https://github.com/yourusername/lung-cancer-ml)**  
+🔗 **[Power BI Dashboards](https://github.com/yourusername/powerbi-dashboards)** (Call Center, Nestlé, PwC)  
+📊 **[Customer Churn Prediction](https://github.com/yourusername/customer-churn)**  
 
 ---
 
@@ -33,6 +35,14 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=juhi_shahi&theme=dark" alt="GitHub Streak" />
 </p>
+
+---
+
+## 🏆 Achievements  
+🎖 **Postman Batch 5 Winner** – Won **limited edition swags** 🏅  
+💡 **2nd Round Finalist** – **TATA Crucible Campus Quiz 2024**  
+👩‍💻 **Google Cloud Certified** – Introduction to Generative AI  
+📜 **PwC Switzerland – Power BI Job Simulation**  
 
 ---
 
@@ -51,4 +61,5 @@
 ---
 
 ✨ **_Thanks for visiting my profile! Let's connect!_** ✨
+
 
